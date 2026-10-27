@@ -1,0 +1,308 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Tugas304",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet8.Tugas304",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Tugas204",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet8.Tugas204",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Tugas104",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet8.Tugas104",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "NilaiKelompok04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet8.NilaiKelompok04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Triangle04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet8.Triangle04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet8.Rectangle04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Star04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet8.Star04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "TugasParkir04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet7.TugasParkir04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "TugasBioskop04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet7.TugasBioskop04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "CafeDoWhile",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet7.CafeDoWhile",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet7.SiakadWhile04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "StudiKasus204",
+            "request": "launch",
+            "mainClass": "StudiKasus204",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "kedaiKopi04",
+            "request": "launch",
+            "mainClass": "Java.Jobsheet6.kedaiKopi04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "tugas2SeleksiAsisten",
+            "request": "launch",
+            "mainClass": "tugas2SeleksiAsisten",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "tugas1DiskonTokoBuku",
+            "request": "launch",
+            "mainClass": "tugas1DiskonTokoBuku",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "nestedAksesLab04",
+            "request": "launch",
+            "mainClass": "nestedAksesLab04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "operatorLogikaWifi04",
+            "request": "launch",
+            "mainClass": "operatorLogikaWifi04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "nestedUjianSkripsi04",
+            "request": "launch",
+            "mainClass": "nestedUjianSkripsi04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "TugasAntrean04",
+            "request": "launch",
+            "mainClass": "TugasAntrean04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "TugasParkir04",
+            "request": "launch",
+            "mainClass": "TugasParkir04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2Pemilihan",
+            "request": "launch",
+            "mainClass": "Tugas2Pemilihan",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1Pemilihan04",
+            "request": "launch",
+            "mainClass": "Tugas1Pemilihan04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanSwitch04",
+            "request": "launch",
+            "mainClass": "PemilihanSwitch04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanIf04",
+            "request": "launch",
+            "mainClass": "PemilihanIf04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "ParkirMotor04",
+            "request": "launch",
+            "mainClass": "ParkirMotor04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "BiayaCetakDokumen",
+            "request": "launch",
+            "mainClass": "BiayaCetakDokumen",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "CicilanLaptop04",
+            "request": "launch",
+            "mainClass": "CicilanLaptop04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan04",
+            "request": "launch",
+            "mainClass": "GajiKaryawan04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungTotalBarang04",
+            "request": "launch",
+            "mainClass": "MenghitungTotalBarang04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungLuasPersegiPanjang04",
+            "request": "launch",
+            "mainClass": "MenghitungLuasPersegiPanjang04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperasi04",
+            "request": "launch",
+            "mainClass": "ContohOperasi04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "KasusModifikasi1",
+            "request": "launch",
+            "mainClass": "KasusModifikasi1",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "StudiKasus1",
+            "request": "launch",
+            "mainClass": "StudiKasus1",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Bank04",
+            "request": "launch",
+            "mainClass": "Bank04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Segitiga04",
+            "request": "launch",
+            "mainClass": "Segitiga04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator04",
+            "request": "launch",
+            "mainClass": "ContohOperator04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData04",
+            "request": "launch",
+            "mainClass": "ContohTipeData04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariabel04",
+            "request": "launch",
+            "mainClass": "ContohVariabel04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "RobotArm04",
+            "request": "launch",
+            "mainClass": "RobotArm04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Robotarm04",
+            "request": "launch",
+            "mainClass": "Robotarm04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Latihan04",
+            "request": "launch",
+            "mainClass": "Latihan04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstJava04",
+            "request": "launch",
+            "mainClass": "MyFirstJava04",
+            "projectName": "Daspro_e4c32e40"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
